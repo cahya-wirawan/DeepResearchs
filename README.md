@@ -4,8 +4,10 @@ A compilation of existing Deep Research repositories
 ## Open Source
 
 ### DeerFlow
-DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, 
-crawling, and Python execution, while contributing back to the open-source community.
+DeerFlow (Deep Exploration and Efficient Research Flow) is a community-driven Deep Research framework 
+that builds upon the incredible work of the open source community. The goal is to combine language 
+models with specialized tools for tasks like web search, crawling, and Python code execution, while 
+giving back to the community that made this possible.
 - https://github.com/bytedance/deer-flow
 - https://deerflow.tech/
 
