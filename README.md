@@ -10,6 +10,16 @@ models with specialized tools for tasks like web search, crawling, and Python co
 giving back to the community that made this possible.
 - https://github.com/bytedance/deer-flow
 - https://deerflow.tech/
+### GPT Researhers
+GPT Researcher is an open deep research agent designed for both web and local research on any given task.
+
+The agent produces detailed, factual, and unbiased research reports with citations. GPT Researcher 
+provides a full suite of customization options to create tailor made and domain specific research 
+agents. Inspired by the recent Plan-and-Solve and RAG papers, GPT Researcher addresses misinformation, 
+speed, determinism, and reliability by offering stable performance and increased speed through 
+parallelized agent work.
+
+- https://github.com/assafelovic/gpt-researcher
 
 ### Open Deep Research
 An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
