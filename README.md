@@ -37,7 +37,7 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ### Jina DeepResearch
 Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
-https://github.com/jina-ai/node-DeepResearch
+- https://github.com/jina-ai/node-DeepResearch
 - https://search.jina.ai/
 
 ### WebThinker
