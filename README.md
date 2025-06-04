@@ -31,7 +31,13 @@ https://github.com/jina-ai/node-DeepResearch
 - https://search.jina.ai/
 
 ### WebThinker
-🌐 WebThinker: Empowering Large Reasoning Models with Deep Research Capability
+WebThinker is a deep research framework fully powered by large reasoning models (LRMs).
+WebThinker enables LRMs to autonomously search, deeply explore web pages, and draft research 
+reports, all within their thinking process.
+
+Unlike existing open-source deep search agents that typically employ retrieval-augmented generation (RAG)
+with predefined workflows, WebThinker allows the reasoning model itself to perform actions during 
+thinking, achieving end-to-end task execution in a single generation.
 - https://github.com/RUC-NLPIR/WebThinker
 
 ### Gemini Fullstack LangGraph
